@@ -47,7 +47,7 @@ export function Navigation({ isDarkMode, toggleTheme }: NavigationProps) {
             transition={{ delay: 0.2 }}
             className={`text-xl font-medium ${isDarkMode ? 'text-white' : 'text-gray-900'}`}
           >
-            &lt;Portifólio /&gt;
+            &lt;Portfólio /&gt;
           </motion.div>
           
           <div className="hidden md:flex items-center space-x-8">
